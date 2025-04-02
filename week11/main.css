@@ -1,0 +1,13 @@
+body{
+     background-color: blueviolet;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    grid-template-rows: 200px 200px;
+}
+
+.box{
+    background-color: hotpink;
+      padding: 2rem;
+}
